@@ -19983,4 +19983,139 @@
         "Institution size category (HD2020)": 3,
         "Institution's internet website address (HD2020)": "https://www.worcester.edu/",
         "NCAA": {
-            "NAIA member for football (IC2020)"
+            "NAIA member for football (IC2020)": 1,
+            "NAIA conference number football (IC2020)": 184
+        },
+        "Total price for in-state students living on campus 2020-21 (DRVIC2020)": 26222,
+        "Total price for out-of-state students living on campus 2020-21 (DRVIC2020)": 32302,
+        "Total price for in-state students living off campus (not with family)  2020-21 (DRVIC2020)": 19554,
+        "Total price for out-of-state students living off campus (not with family)  2020-21 (DRVIC2020)": 25634,
+        "Graduation rate  total cohort (DRVGR2020)": 59,
+        "Graduation rate  men (DRVGR2020)": 53,
+        "Graduation rate  women (DRVGR2020)": 62
+    },
+    {
+        "instnm": "Wright State University-Main Campus",
+        "Percent of total enrollment that are American Indian or Alaska Native (DRVEF2020)": 0,
+        "Percent of total enrollment that are Asian": {
+            "Native Hawaiian": {
+                "Pacific Islander (DRVEF2020)": 4
+            }
+        },
+        "Percent of total enrollment that are Black or African American (DRVEF2020)": 11,
+        "Percent of total enrollment that are Hispanic": {
+            "Latino (DRVEF2020)": 4
+        },
+        "Percent of total enrollment that are White (DRVEF2020)": 72,
+        "Percent of total enrollment that are women (DRVEF2020)": 55,
+        "Total  enrollment (DRVEF2020)": 10936,
+        "Longitude location of institution (HD2020)": -84.064881,
+        "Latitude location of institution (HD2020)": 39.780634,
+        "Institution size category (HD2020)": 4,
+        "Institution's internet website address (HD2020)": "www.wright.edu/",
+        "NCAA": {
+            "NAIA member for football (IC2020)": 2,
+            "NAIA conference number football (IC2020)": -2
+        },
+        "Total price for in-state students living on campus 2020-21 (DRVIC2020)": 26512,
+        "Total price for out-of-state students living on campus 2020-21 (DRVIC2020)": 35930,
+        "Total price for in-state students living off campus (not with family)  2020-21 (DRVIC2020)": 26512,
+        "Total price for out-of-state students living off campus (not with family)  2020-21 (DRVIC2020)": 35930,
+        "Graduation rate  total cohort (DRVGR2020)": 43,
+        "Graduation rate  men (DRVGR2020)": 42,
+        "Graduation rate  women (DRVGR2020)": 45
+    },
+    {
+        "instnm": "Xavier University",
+        "Percent of total enrollment that are American Indian or Alaska Native (DRVEF2020)": 0,
+        "Percent of total enrollment that are Asian": {
+            "Native Hawaiian": {
+                "Pacific Islander (DRVEF2020)": 3
+            }
+        },
+        "Percent of total enrollment that are Black or African American (DRVEF2020)": 10,
+        "Percent of total enrollment that are Hispanic": {
+            "Latino (DRVEF2020)": 5
+        },
+        "Percent of total enrollment that are White (DRVEF2020)": 75,
+        "Percent of total enrollment that are women (DRVEF2020)": 58,
+        "Total  enrollment (DRVEF2020)": 7061,
+        "Longitude location of institution (HD2020)": -84.47465,
+        "Latitude location of institution (HD2020)": 39.149547,
+        "Institution size category (HD2020)": 3,
+        "Institution's internet website address (HD2020)": "https://www.xavier.edu/",
+        "NCAA": {
+            "NAIA member for football (IC2020)": 2,
+            "NAIA conference number football (IC2020)": -2
+        },
+        "Total price for in-state students living on campus 2020-21 (DRVIC2020)": 60270,
+        "Total price for out-of-state students living on campus 2020-21 (DRVIC2020)": 60270,
+        "Total price for in-state students living off campus (not with family)  2020-21 (DRVIC2020)": 60270,
+        "Total price for out-of-state students living off campus (not with family)  2020-21 (DRVIC2020)": 60270,
+        "Graduation rate  total cohort (DRVGR2020)": 69,
+        "Graduation rate  men (DRVGR2020)": 67,
+        "Graduation rate  women (DRVGR2020)": 71
+    },
+    {
+        "instnm": "Yale University",
+        "Percent of total enrollment that are American Indian or Alaska Native (DRVEF2020)": 0,
+        "Percent of total enrollment that are Asian": {
+            "Native Hawaiian": {
+                "Pacific Islander (DRVEF2020)": 16
+            }
+        },
+        "Percent of total enrollment that are Black or African American (DRVEF2020)": 7,
+        "Percent of total enrollment that are Hispanic": {
+            "Latino (DRVEF2020)": 11
+        },
+        "Percent of total enrollment that are White (DRVEF2020)": 39,
+        "Percent of total enrollment that are women (DRVEF2020)": 52,
+        "Total  enrollment (DRVEF2020)": 12060,
+        "Longitude location of institution (HD2020)": -72.926688,
+        "Latitude location of institution (HD2020)": 41.311158,
+        "Institution size category (HD2020)": 4,
+        "Institution's internet website address (HD2020)": "https://www.yale.edu/",
+        "NCAA": {
+            "NAIA member for football (IC2020)": 1,
+            "NAIA conference number football (IC2020)": 117
+        },
+        "Total price for in-state students living on campus 2020-21 (DRVIC2020)": 79370,
+        "Total price for out-of-state students living on campus 2020-21 (DRVIC2020)": 79370,
+        "Total price for in-state students living off campus (not with family)  2020-21 (DRVIC2020)": null,
+        "Total price for out-of-state students living off campus (not with family)  2020-21 (DRVIC2020)": null,
+        "Graduation rate  total cohort (DRVGR2020)": 96,
+        "Graduation rate  men (DRVGR2020)": 95,
+        "Graduation rate  women (DRVGR2020)": 97
+    },
+    {
+        "instnm": "Youngstown State University",
+        "Percent of total enrollment that are American Indian or Alaska Native (DRVEF2020)": 0,
+        "Percent of total enrollment that are Asian": {
+            "Native Hawaiian": {
+                "Pacific Islander (DRVEF2020)": 1
+            }
+        },
+        "Percent of total enrollment that are Black or African American (DRVEF2020)": 9,
+        "Percent of total enrollment that are Hispanic": {
+            "Latino (DRVEF2020)": 4
+        },
+        "Percent of total enrollment that are White (DRVEF2020)": 75,
+        "Percent of total enrollment that are women (DRVEF2020)": 56,
+        "Total  enrollment (DRVEF2020)": 11835,
+        "Longitude location of institution (HD2020)": -80.64659,
+        "Latitude location of institution (HD2020)": 41.104928,
+        "Institution size category (HD2020)": 4,
+        "Institution's internet website address (HD2020)": "https://ysu.edu/",
+        "NCAA": {
+            "NAIA member for football (IC2020)": 1,
+            "NAIA conference number football (IC2020)": 123
+        },
+        "Total price for in-state students living on campus 2020-21 (DRVIC2020)": 23928,
+        "Total price for out-of-state students living on campus 2020-21 (DRVIC2020)": 24288,
+        "Total price for in-state students living off campus (not with family)  2020-21 (DRVIC2020)": 23928,
+        "Total price for out-of-state students living off campus (not with family)  2020-21 (DRVIC2020)": 24288,
+        "Graduation rate  total cohort (DRVGR2020)": 47,
+        "Graduation rate  men (DRVGR2020)": 44,
+        "Graduation rate  women (DRVGR2020)": 50
+    }
+]
